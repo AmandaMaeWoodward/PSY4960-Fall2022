@@ -1,10 +1,10 @@
 Answer the two questions below in the following format: 
-Name: Connor Prok
+Name: John Farra
 
 1.We've been talking about GitHub and how it relates to R/R Studio. What is your takeaway from today's class? 
 
-Github is related to a cloud-based storage while Git is stored on user's computer.
+GithHub is a cloud-based collaboration tool that uses R/R Studio for coding projects in a way that lets people make clear changes with one another.
  
 2. What is one question that you still have ? 
 
-Are we able to do more practice with this?
+What is the extent of R? As in, what are the strangest things that R can be used for outside of what we are learning in this course for data management?
